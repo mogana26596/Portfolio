@@ -17,7 +17,7 @@ const About = async () => {
  };
 return (
 <div>
-  <nav className="sticky navbar">
+  <nav className="navbar">
   <div className="container-fluid justify-content-end">
         <button type="button" className="btn btn-dark" onClick={Home}><i className="fa fa-home" aria-hidden="true"></i> Home</button>
         <button type="button" className="btn btn-dark" onClick={About}><i className="fa fa-user-o" aria-hidden="true"></i> About</button>

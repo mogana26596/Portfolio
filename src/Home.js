@@ -14,7 +14,7 @@ return (
         <h1><span>FULL-STACK WEB DEVELOPER</span></h1>
       </div>
       <div className="col-6">
-         <img src="https://www.edureka.co/blog/wp-content/uploads/2018/10/How-to-become-a-Full-Stack-Web-Developer--451x300.png" alt="" className= "image" width="600" height="400"/>
+         <img src="https://www.sardonyx.in/themes/images/software-development/sardonyx-softwaredevelopment001.gif" alt="" className= "image" width="650" height="550"/>
       </div>
     </div> 
   </div>

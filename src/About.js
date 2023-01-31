@@ -8,15 +8,15 @@ return (
   <Topbar/>
   <div className="container">
     <div className="row">
-      <div className="col-6">
+      <div className="col-5">
        <h1 className="head">Know Who I'M</h1> 
        <p>Hi Everyone, My name is Mrs.Mogana from Chennai.
        <p>I am completed B.Tech of Electronics and Communication Engineering and Technology with 83% and also completed a fullstack developer course in GUVI GEEK NETWORK PRIVATE LIMITED.</p>
         My interest in web development and design.</p>
        <p>Now, I am growing myself as a fullstack developer . I worked hard and gained some experience in the field of software and web development and still trying to improve my skills more.</p>
       </div> 
-      <div className="col-6">
-         <img src="https://www.bizzmine.com/images/articles/careers/Front-end-developer.png" alt="" className= "ima" width="550" height="400"/>
+      <div className="col-7">
+         <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" alt="" className= "ima" width="680" height="550"/>
       </div>
     </div> 
   </div>
@@ -112,7 +112,7 @@ return (
     </div>
     <div className="col-lg-1">  
       <div className="box">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Heroku_logo.svg/2560px-Heroku_logo.svg.png" alt=""  className="rounded" width="75" height="70"/>  
+      <img src="https://www.nicepng.com/png/full/223-2233246_heroku-logo-salesforce-heroku.png" alt=""  className="rounded" width="65" height="70"/>  
       </div>
     </div></div>
     <div className="row justify-content-md-center">

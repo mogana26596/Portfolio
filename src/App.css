@@ -1,12 +1,13 @@
 body {
-  background-image: url('https://i.pinimg.com/originals/73/62/75/7362759c02faa8997f142569eeffd872.gif');
+  background-image: url('https://thumbs.gfycat.com/AffectionateDesertedGoa-max-1mb.gif');
+   /* background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%; */
 }
 .navbar {
-  margin: 50px 70px;
+  margin: 30px 70px;
 }
-.navbar,.sticky {
-  transition: all .3s ease-out 0s!important;
-}
+
 .btn{
     font-size:20px;
     margin:8px;
@@ -17,7 +18,8 @@ h1{
   margin:60px 30px;
 }
 .image{
-  margin: 50px auto;
+  margin-bottom: 10px;
+  margin-top: 45px;
 }
 .ima{
   margin: 110px 40px;
