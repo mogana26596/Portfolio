@@ -10,7 +10,7 @@ return (
   <div className="container mb-5" style={{maxWidth: "70rem",margin:"90px"}}>
   <div className="row g-8">
     <div className="col-md-6">
-       <img style={{margin:"120px 15px"}} src="https://upload.wikimedia.org/wikipedia/commons/a/a5/StackOverflow.com_Top_Questions_Page_Screenshot.png" className="img" alt="..." width="480" height="310"/>
+       <img style={{margin:"120px 15px"}} src="/images/StackOverflow.png" className="img" alt="..." width="480" height="310"/>
     </div>
     <div className="col-md-6">
         <a href="https://grand-crostata-4460ff.netlify.app/" className="head btn btn-link" target="_blank">Stack overflow clone</a>
@@ -25,7 +25,7 @@ return (
 <div className="container mb-5" style={{maxWidth: "70rem",margin:"90px"}}>
   <div className="row g-8">
     <div className="col-md-6">
-      <img style={{margin:"80px 15px"}} src="https://www.spinxdigital.com/blog/wp-content/uploads/2016/12/Temple-Airbnb-Logo.png" className="img" alt="..." width="480" height="350"/>
+      <img style={{margin:"80px 15px"}} src="/images/airbnb.png" alt="Icon" className="img" width="480" height="350"/> 
     </div>
     <div className="col-md-6">
         <a href="https://vocal-bombolone-9502db.netlify.app" className="head btn btn-link" target="_blank">Airbnb Clone</a>
@@ -40,7 +40,7 @@ return (
 <div className="container mb-5" style={{maxWidth: "70rem",margin:"90px"}}>
   <div className="row g-8">
     <div className="col-md-6">
-      <img style={{margin:"110px 15px"}} src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/c0b13e6659629.56027c9435d35.jpg" className="img" alt="..." width="480" height="310"/>
+      <img style={{margin:"110px 15px"}} src="/images/library.jpg" className="img" alt="..." width="480" height="310"/>
     </div>
     <div className="col-md-6">
     <a href="	https://tranquil-stroopwafel-3b621b.netlify.app" className="head btn btn-link" target="_blank">Library Management Clone</a>
@@ -55,7 +55,7 @@ return (
 <div className="container mb-5" style={{maxWidth: "70rem",margin:"90px"}}>
   <div className="row g-8">
     <div className="col-md-6">
-      <img style={{margin:"110px 15px"}} src="https://image-archive.developerhub.io/image/upload/v2_5268/ynticzyl0d4pqiwmxlwp/1626974265.png" className="img" alt="..." width="480" height="310"/>
+      <img style={{margin:"110px 15px"}} src="/images/user.png" className="img" alt="..." width="480" height="310"/>
     </div>
     <div className="col-md-6">
     <a href="	https://boisterous-bonbon-f8afd0.netlify.app/" className="head btn btn-link" target="_blank">User and User Profile Management Clone</a>
