@@ -29,7 +29,7 @@ return (
     </div>
     <div className="col-md-6">
         <a href="https://vocal-bombolone-9502db.netlify.app" className="head btn btn-link" target="_blank">Airbnb Clone</a>
-        <p>I have created this website for Homestay reserving. This website is basically the frontend and backend clone which is created with HTML, CSS, JavaScript, Bootstrap, ReactJS, Express JS, NodeJS and MongoDB. Airbnb is Air Bed and Breakfast. This website operates an online marketplace focused on short-term homestays and experiences.</p>    
+        <p>I have created this website for Homestay reserving. This website is basically the frontend and backend clone which is created with HTML, CSS, JavaScript, Bootstrap, ReactJS, Express JS, NodeJS and MongoDB. Airbnb is Air Bed and Breakfast. This website operates an online marketplace focused on short-term homestays and experiences. Also Razorpay Payment Gateway implemented to pay for reservertionof homestay.</p>    
         <a href="https://github.com/mogana26596/Airbnb-frontend" className="btn btn-primary d-md-flex justify-content-md-center" target="_blank">Airbnb clone - Frontend</a>
         <a href="https://github.com/mogana26596/Airbnb-backend" className="btn btn-primary d-md-flex justify-content-md-center" target="_blank">Airbnb clone - Backend</a>
         <a href="https://airbnb-backend21.onrender.com" className="btn btn-primary d-md-flex justify-content-md-center" target="_blank">Airbnb clone - Deployed URL</a> 
