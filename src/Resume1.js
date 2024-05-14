@@ -23,16 +23,16 @@ return (
        <p>2010 - 2011</p>
       </div> 
       <div className="col-1"></div>
-      <div className="col-5">
+      <div className="col-6">
       <h1 className="head">Course Completion</h1> 
       <p>👉 HTML & CSS Course in GUVI GEEK NETWORK PRIVATE LIMITED</p>
-      <img style={{margin:"25px 10px 20px 10px"}} src="./assets/GuviCertification - Z1712AK6Lp11626kX3.png" className="img" alt="..." width="480" height="310"/>
+      <img style={{margin:"25px 10px 20px 10px"}} src="./assets/GuviCertification - Z1712AK6Lp11626kX3.png" className="img" alt="..." width="550" height="310"/>
 
       <p>👉 AWS Technical Essentials Course in AWS Training and Certification</p>
-      <img style={{margin:"25px 10px 20px 10px"}} src="./assets/aws.png" className="img" alt="..." width="480" height="310"/>
+      <img style={{margin:"25px 10px 20px 10px"}} src="./assets/aws.png" className="img" alt="..." width="550" height="310"/>
       </div>
       <div>
-      <a href="./assets/Resume.pdf" download="Resume.pdf"><button style={{margin:"30px 500px 30px 500px",fontSize:"20px"}} type="button" className="btn btn-primary d-md-flex justify-content-md-center" ><i className="fa fa-download fa-4x" aria-hidden="true"></i> Download Resume</button></a>
+      <a href="./assets/Resume.pdf" download="Resume.pdf"><button style={{margin:"30px 500px",fontSize:"20px"}} type="button" className="btn btn-primary d-flex justify-content-center"><i className="fa fa-download fa-3x" aria-hidden="true"></i>Download Resume</button></a>
          </div>
     </div> 
   </div>
