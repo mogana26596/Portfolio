@@ -32,7 +32,7 @@ return (
       <img style={{margin:"25px 10px 20px 10px"}} src="./assets/aws.png" className="img" alt="..." width="550" height="310"/>
       </div>
       <div>
-      <a href="./assets/Resume.pdf" download="Resume.pdf"><button style={{margin:"30px 500px",fontSize:"20px"}} type="button" className="btn btn-primary d-flex justify-content-center"><i className="fa fa-download fa-3x" aria-hidden="true"></i>Download Resume</button></a>
+      <a href="./assets/Resume.pdf" target="_blank"><button style={{margin:"30px 500px",fontSize:"20px"}} type="button" className="btn btn-primary d-flex justify-content-center"><i className="fa fa-download fa-3x" aria-hidden="true"></i>Click Here to view Resume</button></a>
          </div>
     </div> 
   </div>

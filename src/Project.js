@@ -6,7 +6,7 @@ function Project() {
 return (
 <div>
   <Topbar/>
-  <h1 className="head">My Recent Works</h1> 
+  <h1 className="head text-center">My Recent Works</h1> 
 
   <div className="container">
   <div className="row g-8">
@@ -16,9 +16,9 @@ return (
     <div className="col-md-6">
         <a  className="head btn btn-link">Airbnb Clone</a>
         <p>I have created this website for Homestay reserving. This website is basically the frontend and backend clone which is created with HTML, CSS, JavaScript, Bootstrap, ReactJS, Express JS, NodeJS and MongoDB. Airbnb is Air Bed and Breakfast. This website operates an online marketplace focused on short-term homestays and experiences. Also Razorpay Payment Gateway implemented to pay for reservertionof homestay.</p>    
-        <a href="https://github.com/mogana26596/Airbnb-frontend" className="btn btn-primary d-md-flex justify-content-md-center" target="_blank">Airbnb clone - Frontend</a>
+        <a href="https://github.com/mogana26596/airbnbfront" className="btn btn-primary d-md-flex justify-content-md-center" target="_blank">Airbnb clone - Frontend</a>
         <a href="https://github.com/mogana26596/Airbnb-backend" className="btn btn-primary d-md-flex justify-content-md-center" target="_blank">Airbnb clone - Backend</a>
-        <a href="https://airbnbclonenode.netlify.app/"className="btn btn-primary d-md-flex justify-content-md-center" target="_blank">Airbnb clone - Deployed URL</a> 
+        <a href="https://airbnbclonehomestay.netlify.app/"className="btn btn-primary d-md-flex justify-content-md-center" target="_blank">Airbnb clone - Deployed URL</a> 
     </div>
   </div>
 </div>
@@ -55,14 +55,14 @@ return (
   <div className="container">
   <div className="row g-8">
     <div className="col-md-6">
-       <img style={{margin:"120px 15px"}} src="/images/StackOverflow.png" className="img" alt="..." width="480" height="310"/>
+       <img style={{margin:"120px 15px"}} src="/images/onlinemarket.png" className="img" alt="..." width="480" height="310"/>
     </div>
     <div className="col-md-6">
-        <a className="head btn btn-link" target="_blank">Stack overflow clone</a>
-        <p>I have created this website for Hackathon. This website is basically the frontend and backend clone which is created with HTML, CSS, JavaScript, Bootstrap, ReactJS, Express JS, NodeJS and MongoDB . This website  is a question and answer website. It features questions and answers on a wide range of topics in computer programming.</p>    
-        <a href="https://github.com/mogana26596/webcodereact" className="btn btn-primary d-md-flex justify-content-md-center" target="_blank">Stack overflow clone - Frontend</a>
-        <a href="https://github.com/mogana26596/webcodenodejs" className="btn btn-primary d-md-flex justify-content-md-center" target="_blank">Stack overflow clone - Backend</a> 
-        <a href="https://stackoverflowclone11.netlify.app/" className="btn btn-primary d-md-flex justify-content-md-center" target="_blank">Stack overflow clone - Deployed URL</a> 
+        <a className="head btn btn-link" target="_blank">Online fruits and Vegetables market shop</a>
+        <p>I have created this website for sell the fresh fruits and vegetables online. This website is basically the frontend and backend clone which is created with HTML, CSS, JavaScript, Bootstrap, ReactJS, Express JS, NodeJS and Mongoose MongoDB . In this website, selling farm fresh fruits and vegetables online at the best prices.</p>    
+        <a href="https://github.com/mogana26596/onlineshopfrontend" className="btn btn-primary d-md-flex justify-content-md-center" target="_blank">Online fruits and Vegetables market shop - Frontend</a>
+        <a href="https://github.com/mogana26596/onlineshoppingbackend" className="btn btn-primary d-md-flex justify-content-md-center" target="_blank">Online fruits and Vegetables market shop - Backend</a> 
+        <a href="https://onlineshoppinmarket.netlify.app/" className="btn btn-primary d-md-flex justify-content-md-center" target="_blank">Online fruits and Vegetables market shop - Deployed URL</a> 
     </div>
   </div>
 </div>
