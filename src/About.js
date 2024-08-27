@@ -16,12 +16,12 @@ return (
        <p>Now, I am growing myself as a fullstack developer . I worked hard and gained some experience in the field of software and web development and still trying to improve my skills more.</p>
       </div> 
       <div className="col-6">
-         <img src="https://pbs.twimg.com/media/EEch2viVAAAyHT_.png" alt="" className= "ima" width="450" height="450"/>
+         <img src="https://pbs.twimg.com/media/EEch2viVAAAyHT_.png" alt="" className= "ima" width="420" height="420"/>
       </div>
     </div> 
   </div>
  
-  <p className="head"><b>PROFESSIONAL SKILLSET</b></p>
+  <p className="head" style={{marginLeft:"700px"}}><b>PROFESSIONAL SKILLSET</b></p>
   <p style={{fontSize:"40px",textAlign:"Center"}}><b>Languages</b></p>
   <div className="row justify-content-md-center">
     <div className="col-lg-1">  
