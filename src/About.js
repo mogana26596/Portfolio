@@ -77,7 +77,7 @@ return (
     </div>
     <div className="col-lg-1">  
       <div className="box">
-      <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--YbV36HLj--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/hpg6if7btrwilqkidqbe.png" alt=""  className="rounded" width="80" height="80"/>  
+      <img src="https://miro.medium.com/v2/resize:fit:1400/1*hYfdBkfKgvtMoDcqk_LjWA.png" alt=""  className="rounded" width="80" height="60"/>  
       </div>
     </div>
     <div className="col-lg-1">  

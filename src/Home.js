@@ -6,37 +6,22 @@ function Home() {
 return (
 <div>
   <Topbar/>
-  <div className="container">
+   <div className="container">
     <div className="row">
       <div className="col-6">
-        <h1>Hi There!👋🏻</h1>
-        <h1>I'M <span>MOGANA</span></h1>
-        <h1><span>FULL-STACK WEB DEVELOPER</span></h1>
+          <img src="/images/fl.gif" alt="" className= "image" width="550" height="680"/>
       </div>
-      <div className="col-6">
-         <img src="https://www.sardonyx.in/themes/images/software-development/sardonyx-softwaredevelopment001.gif" alt="" className= "image" width="650" height="550"/>
+      <div style={{margin:"50px 0px"}} className="col-6">
+        <h1 style={{fontSize:"50px"}}><b>Welcome to My Portfolio!</b></h1>
+        <h1>I'm <span><b>MOGANA</b></span></h1>
+        <h1><span>Full Stack Developer</span></h1>      
+        <a href="./assets/Resume.pdf" target="_blank"><button style={{margin:"30px 0px",fontSize:"20px", color: "white"}} type="button" className="btn btn-outline-info d-flex justify-content-center"><i className="fa fa-download fa-2x" aria-hidden="true"></i>Click Here to view Resume</button></a>
       </div>
     </div> 
-  </div>
-
-  <div className="container">
-    <div className="row">
-       <div className="col-6">
-         <img src="https://d2btv6z6utd61g.cloudfront.net/wp-content/uploads/2020/01/full-stack-bnr.png" alt="" className= "image" width="450" height="400"/>
-      </div>
-      <div className="col-6">
-       <p className="head">LET ME INTRODUCE MYSELF</p>
-       <p> I'm Programmer that turns coffee into code.😉</p>
-       <p>I am fluent in classNameics like <span>C++, C, Javascript.</span></p>
-       <p>My field of Interest's are building new <span>Web Technologies</span> and areas related to <span>Digital Marketing.</span></p>
-       <p>Whenever possible, I also apply my passion for developing products with <span>Javascript Frameworks</span> like <span>Node.js and React.js.</span></p>
-      </div>
-     
-    </div> 
-  </div>
-<Footer/>
+   </div>
+  <Footer/>
 </div>
-  );
+);
 }
 
 export default Home;
