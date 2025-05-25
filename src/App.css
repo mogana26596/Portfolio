@@ -1,5 +1,5 @@
 body {
-  background-image: url('c:\Users\somu\Desktop\background.jpg');
+  background-image: url("https://static.vecteezy.com/system/resources/previews/012/919/637/non_2x/abstract-blue-circle-on-black-background-technology-free-vector.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100% 100%;
@@ -30,7 +30,7 @@ h1{
   margin: 160px 200px;
 }
 span{
-  color:aqua;
+  color:aqua; text-shadow: 2px 2px 2px #ababab;
 }
 .head {
   font-size:40px;
