@@ -75,9 +75,9 @@ return (
     <div className="col-md-6">
     <p className="head">School Management Clone</p>
     <p>I have created this website to record School students and teacher details. This website is basically the frontend and backend clone which is created with HTML, CSS, JavaScript, Bootstrap, ReactJS, Express JS, NodeJS and MongoDB. In this project, admin only should access this software.</p>    
-    <a href="https://github.com/mogana26596/userreact" className="btn btn-secondary d-md-flex justify-content-md-center" target="_blank">School Management clone - Frontend</a>
-        <a href="https://github.com/mogana26596/usernodejs" className="btn btn-secondary d-md-flex justify-content-md-center" target="_blank">School Management clone - Backend</a> 
-        <a href="https://schoolmanagement11.netlify.app/" className="btn btn-secondary d-md-flex justify-content-md-center" target="_blank">School Management clone - Deployed URL</a> 
+    <a href="https://github.com/mogana26596/schoolreact" className="btn btn-secondary d-md-flex justify-content-md-center" target="_blank">School Management clone - Frontend</a>
+        <a href="https://github.com/mogana26596/schoolnodejs" className="btn btn-secondary d-md-flex justify-content-md-center" target="_blank">School Management clone - Backend</a> 
+        <a href="https://schoolmanagement111.netlify.app/" className="btn btn-secondary d-md-flex justify-content-md-center" target="_blank">School Management clone - Deployed URL</a> 
     </div>
   </div>
 </div>
